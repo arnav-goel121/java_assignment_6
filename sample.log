@@ -1,0 +1,4 @@
+INFO Application started
+WARNING Disk usage above 80 percent
+INFO Request completed
+ERROR Database connection timed out
